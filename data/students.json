@@ -1,0 +1,37 @@
+[
+  {
+    "ID": "S001",
+    "Name": "Nguyen Van A",
+    "Class": "C1"
+  },
+  {
+    "ID": "S002",
+    "Name": "Tran Thi B",
+    "Class": "C2"
+  },
+  {
+    "ID": "S003",
+    "Name": "Le Van C",
+    "Class": "C3"
+  },
+  {
+    "ID": "S004",
+    "Name": "Pham Thi D",
+    "Class": "C1"
+  },
+  {
+    "ID": "S005",
+    "Name": "Hoang Van E",
+    "Class": "C2"
+  },
+  {
+    "ID": "stu_jOiTHiQd",
+    "Name": "Nguyen Van A1",
+    "Class": "C2"
+  },
+  {
+    "ID": "stu_M1GEhAyE",
+    "Name": "Nguyen Tan Huy",
+    "Class": "C1"
+  }
+]
